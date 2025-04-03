@@ -1,0 +1,20 @@
+Zoo Population Report
+======================
+
+Species: Tanzania
+Total Count: 1
+Animals:
+ - Shenzi, Age: 5, Gender: Female, Color: Brown, Weight: 150.0 lbs
+
+Species: Serengeti
+Total Count: 1
+Animals:
+ - Simba, Age: 3, Gender: Male, Color: Gold, Weight: 180.0 lbs
+
+Species: India
+Total Count: 2
+Animals:
+ - Shere Khan, Age: 4, Gender: Male, Color: Orange, Weight: 250.0 lbs
+ - Baloo, Age: 6, Gender: Male, Color: Blue, Weight: 200.0 lbs
+
+End of Report

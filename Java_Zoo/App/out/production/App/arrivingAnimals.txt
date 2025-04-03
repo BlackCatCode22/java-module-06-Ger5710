@@ -1,0 +1,4 @@
+Simba, 3, Male, Spring, Gold, 180, Serengeti
+Shenzi, 5, Female, Summer, Brown, 150, Tanzania
+Shere Khan, 4, Male, Winter, Orange, 250, India
+Baloo, 6, Male, Fall, Blue, 200, India
